@@ -7,7 +7,7 @@
 - HTML, CSS, Javascript, Reactjs, Reduxjs, git and github
 - front-end project link: (https://github.com/SINDHU-U-T/WorkBuddy)
 
-<h2> 🤳 Connect with me:</h2> [<img align="left" alt="Sindhu u t | LinkedIn" width="22px" src="https://www.linkedin.com/in/sindhu-u-t-a41257342" />][linkedin]
+<h2> 🤳 Connect with me:</h2> LinkedIn" width="22px" src="https://www.linkedin.com/in/sindhu-u-t-a41257342" />][linkedin]
 <!--
 *Sindhu U T* is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 
